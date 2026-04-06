@@ -1,4 +1,4 @@
-#<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/65e1be6a-de37-421f-9962-079d0a1960d9" />
+#<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/65e1be6a-de37-421f-9962-079d0a1960d9" />
  ducttape
 
 **Duct tape over Claude's mouth. Hands still free.**
